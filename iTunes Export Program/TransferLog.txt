@@ -1,0 +1,39 @@
+28/09/2019 13:10:17
+    CREATED LOG AT: C:\Users\R_Hew\Music\TransferLog.txt   (Just in case...)
+    
+    READING PLAYLISTS FROM iTUNES...
+    
+    FOUND 33 PLAYLISTS!
+        Music                            3723 Items   37.49 Gb
+        Films                            2 Items      2.82 Gb
+        TV Programmes                    6 Items      2.63 Gb
+        Podcasts                         2209 Items   128.93 Gb
+        Audiobooks                       1 Item       13 Mb
+        Recently Added                   267 Songs    4.25 Gb
+        Top 25 Most Played               25 Songs     172 Mb
+        00. ACS EMS Set                  24 Songs     258 Mb
+        00. Robbie Set                   30 Songs     484 Mb
+        01. Dtroit Chi Town              82 Songs     1.19 Gb
+        1. Techno Electro Bass           242 Songs    3.48 Gb
+        10. Disco                        46 Songs     569 Mb
+        11. Drums                        75 Songs     1.2 Gb
+        12. Leftfield                    333 Songs    3.9 Gb
+        13. Bits                         18 Songs     155 Mb
+        14. Wonderful Africa             97 Songs     1.18 Gb
+        15. Ambient Deep House           140 Songs    2.35 Gb
+        16. A Field Near Donington       50 Songs     734 Mb
+        17. What is this 2010            8 Songs      115 Mb
+        18. BREAKS                       22 Songs     299 Mb
+        19. Funky Stuff                  3 Songs      55 Mb
+        2. Techy House                   220 Songs    2.69 Gb
+        3. Deep Dark Wonderful House     99 Songs     1.93 Gb
+        4. Groovy House                  248 Songs    3.42 Gb
+        5. Garage                        21 Songs     230 Mb
+        6. DnB                           184 Songs    1.95 Gb
+        7. Jungle Dub                    51 Songs     513 Mb
+        8. Grime                         63 Songs     412 Mb
+        9. HIP HOP                       420 Songs    3.52 Gb
+        Chill                            152 Songs    1.23 Gb
+        John Dixon                       886 Songs    6.47 Gb
+        Safe                             204 Songs    1.12 Gb
+        Songs                            86 Songs     660 Mb

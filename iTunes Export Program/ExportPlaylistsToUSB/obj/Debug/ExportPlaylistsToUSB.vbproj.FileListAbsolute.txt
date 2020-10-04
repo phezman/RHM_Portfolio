@@ -1,0 +1,17 @@
+C:\Users\R_Hew\Music\ExportPlaylistsToUSB\ExportPlaylistsToUSB\bin\Debug\ExportPlaylistsToUSB.exe.config
+C:\Users\R_Hew\Music\ExportPlaylistsToUSB\ExportPlaylistsToUSB\bin\Debug\ExportPlaylistsToUSB.exe
+C:\Users\R_Hew\Music\ExportPlaylistsToUSB\ExportPlaylistsToUSB\bin\Debug\ExportPlaylistsToUSB.pdb
+C:\Users\R_Hew\Music\ExportPlaylistsToUSB\ExportPlaylistsToUSB\bin\Debug\ExportPlaylistsToUSB.xml
+C:\Users\R_Hew\Music\ExportPlaylistsToUSB\ExportPlaylistsToUSB\obj\Debug\UserControl1.g.vb
+C:\Users\R_Hew\Music\ExportPlaylistsToUSB\ExportPlaylistsToUSB\obj\Debug\ExportPlaylistsToUSB_MarkupCompile.cache
+C:\Users\R_Hew\Music\ExportPlaylistsToUSB\ExportPlaylistsToUSB\obj\Debug\ExportPlaylistsToUSB_MarkupCompile.lref
+C:\Users\R_Hew\Music\ExportPlaylistsToUSB\ExportPlaylistsToUSB\obj\Debug\UserControl1.baml
+C:\Users\R_Hew\Music\ExportPlaylistsToUSB\ExportPlaylistsToUSB\obj\Debug\ExportPlaylistsToUSB.g.resources
+C:\Users\R_Hew\Music\ExportPlaylistsToUSB\ExportPlaylistsToUSB\obj\Debug\ExportPlaylistsToUSB.Resources.resources
+C:\Users\R_Hew\Music\ExportPlaylistsToUSB\ExportPlaylistsToUSB\obj\Debug\ExportPlaylistsToUSB.SelectPlaylists.resources
+C:\Users\R_Hew\Music\ExportPlaylistsToUSB\ExportPlaylistsToUSB\obj\Debug\ExportPlaylistsToUSB.vbproj.GenerateResource.cache
+C:\Users\R_Hew\Music\ExportPlaylistsToUSB\ExportPlaylistsToUSB\obj\Debug\ExportPlaylistsToUSB.vbproj.CoreCompileInputs.cache
+C:\Users\R_Hew\Music\ExportPlaylistsToUSB\ExportPlaylistsToUSB\obj\Debug\ExportPlaylistsToUSB.exe
+C:\Users\R_Hew\Music\ExportPlaylistsToUSB\ExportPlaylistsToUSB\obj\Debug\ExportPlaylistsToUSB.xml
+C:\Users\R_Hew\Music\ExportPlaylistsToUSB\ExportPlaylistsToUSB\obj\Debug\ExportPlaylistsToUSB.pdb
+C:\Users\R_Hew\Music\ExportPlaylistsToUSB\ExportPlaylistsToUSB\obj\Debug\ExportPlaylistsToUSB.vbprojAssemblyReference.cache
